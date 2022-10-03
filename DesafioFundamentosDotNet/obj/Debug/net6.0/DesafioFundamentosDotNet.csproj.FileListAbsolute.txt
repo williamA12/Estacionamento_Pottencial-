@@ -1,0 +1,15 @@
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.csproj.AssemblyReference.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.AssemblyInfoInputs.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.AssemblyInfo.cs
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.csproj.CoreCompileInputs.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\bin\Debug\net6.0\DesafioFundamentosDotNet.exe
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\bin\Debug\net6.0\DesafioFundamentosDotNet.deps.json
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\bin\Debug\net6.0\DesafioFundamentosDotNet.runtimeconfig.json
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\bin\Debug\net6.0\DesafioFundamentosDotNet.dll
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\bin\Debug\net6.0\DesafioFundamentosDotNet.pdb
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.dll
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\refint\DesafioFundamentosDotNet.dll
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.pdb
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\DesafioFundamentosDotNet.genruntimeconfig.cache
+C:\Users\ti02\Desktop\ProjetosDotNet\DesafioFundamentosDotNet\obj\Debug\net6.0\ref\DesafioFundamentosDotNet.dll
